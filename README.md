@@ -1,5 +1,5 @@
 ## <h1 align="center">Olá, eu sou a Tatiane Gardin!</h1>
- <p align = "center">Sou estudante do curso Certified Tech Developer!</p>
+ <p align = "center">Estudante do curso Certified Tech Developer!</p>
 
 <div align="center">
   <a href="https://github.com/tatianegardin">
