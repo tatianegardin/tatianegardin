@@ -63,10 +63,4 @@ Acredito que um bom software começa no papel (ou no diagrama 😄) antes de vir
 
 </div>
 
----
 
-<div align="center">
-
-*"Primeiro você faz funcionar. Depois você faz bonito. Depois você faz rápido."*
-
-</div>
