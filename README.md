@@ -1,32 +1,72 @@
-## <h1 align="center">Olá, eu sou a Tatiane Gardin!</h1>
- <p align = "center">Software Developer Junior no @Mercado Livre</p>
+<div align="center">
+
+# Oi, eu sou a Tatiane Gardin 👋☕
+
+### Backend Engineer @ Mercado Livre · FIAP 
+
+</div>
+
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou engenheira de software backend com foco em **Java** e apaixonada por resolver problemas complexos com código limpo e bem estruturado. Comecei minha jornada no **Bootcamp do Mercado Livre em 2022** e desde então nunca mais larguei — hoje atuo como **Engenheira de Software** e sigo evoluindo.
+
+Atualmente estou me aprofundando em **dados** na FIAP, onde estou desenvolvendo projetos que envolvem modelagem de dados, arquitetura de sistemas e previsão com dados históricos.
+
+Acredito que um bom software começa no papel (ou no diagrama 😄) antes de virar código.
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+<div align="left">
+
+**Linguagens & Frameworks**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Dados & Banco de Dados**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=oracle&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Formação
+
+| Instituição | Curso | Status |
+|---|---|---|
+| 🟣 FIAP | Data Science | Em andamento |
+| 🟡 Digital House | Certified Development | Concluído |
+| 🟢 Mercado Livre | Bootcamp de Desenvolvimento | Concluído (2022) |
+
+---
+
+## 🚀 No momento...
+
+- 🏗️ Desenvolvendo um sistema de **previsão de congestionamentos** com dados históricos (projeto acadêmico FIAP)
+- 📐 Aprofundando conhecimentos em **modelagem de dados** e arquitetura de sistemas
+- ☕ Sempre com uma xícara de café do lado
+
+---
+
+## 📬 Vamos conversar?
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO-AQUI)
+
+</div>
+
+---
 
 <div align="center">
-  <a href="https://github.com/tatianegardin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tatianegardin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tatianegardin&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div style="display: inline_block"><br>
-  
-  <img align="center" alt="Tati-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
-  <img align="center" alt="Tati-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Tati-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Tati-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg"> 
-  <img align="center" alt="Tati-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tati-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tati-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tati-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
 
+*"Primeiro você faz funcionar. Depois você faz bonito. Depois você faz rápido."*
 
-  
-</div>
-  
-  ##
- 
-<div> 
-
-  <a href="https://www.instagram.com/tatianegardin/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tatiane-lacerda-gardin-449438165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/tatianegardin/tatianegardin/blob/output/github-contribution-grid-snake.svg)
 </div>
