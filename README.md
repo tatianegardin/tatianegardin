@@ -59,7 +59,7 @@ Acredito que um bom software começa no papel (ou no diagrama 😄) antes de vir
 
 <div align="left">
 
-[![LinkedIn](https://www.linkedin.com/in/tatiane-lacerda-gardin-449438165/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tatiane-lacerda-gardin-449438165/)
 
 </div>
 
